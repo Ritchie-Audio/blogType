@@ -1,9 +1,9 @@
 {
-  "title": "Homev",
+  "title": "Home",
   "titleTemplate": "Ritchie Y | Bluise Test",
   "welcomeText": "# Hello, I'm Ritchie and I am experimenting here.\n\n\n\n\n\nThis is hopefully going to be fun.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/logoV2.svg",
+  "icon": "app/static/images/uploads/logoV2.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
