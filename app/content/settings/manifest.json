@@ -2,7 +2,7 @@
   "name": "Bluise",
   "shortName": "Bluise",
   "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
-  "backgroundColor": "#ffffff",
+  "themeColor": "#BEC8D4",
+  "backgroundColor": "#778F89",
   "lang": "en"
 }
